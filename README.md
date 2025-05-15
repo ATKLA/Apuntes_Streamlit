@@ -1,2 +1,1 @@
-# Apuntes_Streamlit
-Aspectos básicos de Streamlit
+![Banner principal](banner.png)  
